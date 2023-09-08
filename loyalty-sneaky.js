@@ -1,4 +1,3 @@
-<script>
     const createRewardButton = document.getElementById('create-reward-button');
     const rewardModal = document.getElementById('reward-modal');
     const closeRewardModal = document.getElementById('close-reward-modal');
@@ -134,4 +133,3 @@
                 rewardSubmitButton.disabled = false;
             });
     });
-</script>
